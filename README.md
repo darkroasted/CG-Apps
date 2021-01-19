@@ -21,7 +21,7 @@ To add apps to this repo please open an issue. Please supply the following thing
 
 Optional but recomended:
 - Screenshots of the app running on the device
-- Icon for the readme
+- Icon for the readme (square image)
 
 # Credits
 ### 2048 
