@@ -32,3 +32,6 @@ Created by Witje, source: https://github.com/wjtje/2048-fx-cg-10-20-50
  
 ### Gravity Duck
 Source: https://www.cemetech.net/downloads/files/732/x732
+
+### PACMAN
+Created by THEMASCH , source: https://www.cemetech.net/downloads/files/2011/x2163
