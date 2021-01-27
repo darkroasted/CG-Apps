@@ -29,20 +29,25 @@ Optional but recomended:
 # Credits
 ### 2048 
 Created by Witje
+
 Source: https://github.com/wjtje/2048-fx-cg-10-20-50
  
 ### Gravity Duck
 Created by PierotLL
+
 Source: https://www.cemetech.net/downloads/files/732/x732
 
 ### PACMAN
 Created by THEMASCH
+
 Source: https://www.cemetech.net/downloads/files/2011/x2163
 
 ### Prizoop
 Created by tswilliamson
+
 Source: https://www.cemetech.net/downloads/files/1569/x1569
 
 ### Tetris
 Created by Kerm Martian
+
 Source: https://www.cemetech.net/downloads/files/659/x659
