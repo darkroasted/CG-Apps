@@ -1,6 +1,9 @@
 # CG-Apps
 A app repo for the Casio FX CG series of graphing calculators
 
+##### Disclaimer
+These files are not mine and are made, compiled and owned by their respective owners. Use at your own risk! This is just a space to collect these files in one central space for projects. Questions? Create an issue.
+
 # NEDERLANDSE VERSIE!
 Er komt een Nederlandse versie aan, hou dus nog even vast
 
