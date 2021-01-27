@@ -30,3 +30,5 @@ Optional but recomended:
 ### 2048 
 Created by Witje, source: https://github.com/wjtje/2048-fx-cg-10-20-50
  
+### Gravity Duck
+Source: https://www.cemetech.net/downloads/files/732/x732
